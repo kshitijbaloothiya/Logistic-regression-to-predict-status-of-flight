@@ -1,0 +1,6 @@
+In this case I tried to build a logistic regression that will help me classify whether a flight would get delayed or not
+Description of Predictors For Flight Delay:
+
+origin airport : DCA, IAD, BWI
+destination airport : JFK, LGA, EWR
+Carrier : Common airlines that run between these airports
